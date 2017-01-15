@@ -1,8 +1,12 @@
 {
-  "name": "automated-messages",
-  "version": "0.0.1",
-  "main": "main.js",
-
-  "author": "Johnanater",
-  "license": "MIT"
+    "authors":[
+		"Johnanater"
+	],
+    "jcmp_dependencies":[
+		"chat"
+	],
+    "license":"MIT",
+    "main":"",
+    "name":"automated-messages",
+    "version":"0.0.2"
 }
